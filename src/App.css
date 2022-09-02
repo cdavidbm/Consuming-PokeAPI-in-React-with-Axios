@@ -1,0 +1,43 @@
+body {
+  padding: 75px;
+}
+
+.card{
+  margin: 0 auto;
+  width: 350px;
+  background-color: #cccccc;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0,0,0.1);
+}
+
+
+
+img:hover{
+  zoom: 10px;
+}
+
+li{
+  list-style-type: none;
+  text-align: left !important;
+}
+
+i {
+  padding-right: 20px;
+}
+
+button {
+  width: 250px;
+  height: 30px;
+  margin: 5px;
+  border-radius: 20px;
+}
+
+button:hover{
+  background-color:steelblue
+}
+
+
+
